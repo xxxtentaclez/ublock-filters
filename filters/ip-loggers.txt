@@ -5,4 +5,4 @@
 
 ! CTG123456
 ||han.gl/W9rUZ$important,all
-||http://ctg123456.com/$important,all
+||ctg123456.com$important,all
